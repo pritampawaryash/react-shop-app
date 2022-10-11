@@ -14,7 +14,7 @@ export default function Navbars() {
             <Navbar.Brand href="#home">
               <img href="#home" src={logo} width="40" height="40" alt="" className="mainLogo"></img>
             </Navbar.Brand>
-            <Navbar.Brand href="#home" className="mt-1">AUTO BOYS</Navbar.Brand>
+            <Navbar.Brand href="#home" className="mt-1 fw-bold">AUTO BOYS</Navbar.Brand>
           </Nav>
 
           <Nav className="me-right">
