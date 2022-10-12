@@ -17,7 +17,7 @@ export default function Intro() {
         <h3 className="animate-charcter fw-bold">AUTO BOYS</h3>
         <h3 className='work text-white '>The ROYAL ENFIELD Workshop</h3>
         <h4 className='text-white'>Since 2019</h4>
-        <p className='welcome'>Welcome to AUTO BOYS </p>
+        <p className='welcome mt-5'>Welcome to AUTO BOYS </p>
         </div>
         {/* <div className='col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6'>
           
