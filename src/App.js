@@ -7,6 +7,7 @@ import Mmodels from './components/pages/mModels/Mmodels';
 import Showtext from './components/pages/showText/Showtext';
 import Sliderf from './components/pages/slider/Sliderf';
 import Accessories from './components/pages/accessaries/Accessories';
+import Contact from './components/pages/contact/Contact';
 
 
 function App() {
@@ -19,7 +20,7 @@ function App() {
    <Mmodels/>
    <Sliderf/>
     <Accessories></Accessories>
-   
+   <Contact/>
    </>
   );
 }
